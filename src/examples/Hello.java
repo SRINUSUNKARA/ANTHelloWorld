@@ -33,7 +33,7 @@ public final class Hello extends HttpServlet {
         PrintWriter writer = response.getWriter();        
         writer.println("<html>");
         writer.println("<head>");
-        writer.println("<title>Sample Application Servlet Page</title>");
+        writer.println("<title>Golden Technologies Careers</title>");
         writer.println("</head>");
         writer.println("<body bgcolor=white>");
 
@@ -43,13 +43,13 @@ public final class Hello extends HttpServlet {
         writer.println("<img src=\"images/springsource.png\">");
         writer.println("</td>");
         writer.println("<td>");
-        writer.println("<h1>Sample Application Servlet</h1>");
+        writer.println("<h1>Golden Technologies Welcoming you to careers</h1>");
         writer.println("</td>");
         writer.println("</tr>");
         writer.println("</table>");
 
-        writer.println("This is the output of a servlet that is part of");
-        writer.println("the Hello, World application.");
+        writer.println("Welcome to Golden Technologies World");
+        writer.println("Golden Technologies application.");
 
         writer.println("</body>");
         writer.println("</html>");

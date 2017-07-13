@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Sample Application JSP Page</title>
+    <title>Golden Technologies Login Page</title>
   </head>
 
   <body bgcolor=white>
@@ -11,15 +11,15 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>Sample Application JSP Page</h1>
+         <h1>Home Page to login</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the HelloWorld application....</p>
+  <p>This is the place to login our Golden Technologies World</p>
 
-  <%= new String("Hello!") %>
+  <%= new String("Congratullation to come here ! ") %>
 
   </body>
 </html> 
